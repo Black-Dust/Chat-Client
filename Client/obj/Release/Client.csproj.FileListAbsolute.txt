@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Гысев Егор\Client\Client\bin\Release\Client.exe.config
+C:\Users\User\Desktop\Гысев Егор\Client\Client\bin\Release\Client.exe
+C:\Users\User\Desktop\Гысев Егор\Client\Client\bin\Release\Client.pdb
+C:\Users\User\Desktop\Гысев Егор\Client\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гысев Егор\Client\Client\obj\Release\Client.exe
+C:\Users\User\Desktop\Гысев Егор\Client\Client\obj\Release\Client.pdb
+C:\Users\User\Desktop\Гысев Егор\Client\Client\obj\Release\Client.csprojAssemblyReference.cache
